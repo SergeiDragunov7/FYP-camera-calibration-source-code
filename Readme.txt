@@ -15,4 +15,4 @@ cell 8 will view all the chosen lines and points
 In cell 12, the user should choose a line as a reference unit.
 In cell 13, the user should specify the length of the reference unit in the real world. the given example is 3.5 meters.
 In cell 17, the user should choose a line of unknown length.
-In cell 18, the approximate length of the unknown length will be given.
+In cell 18, the approximate length of the unknown length will be processed and given
