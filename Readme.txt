@@ -5,7 +5,7 @@ image_path - can be the path to any image file. The temptest.jpg image can be us
 In cell 8, the user should choose points such that 2 pairs of parallel lines are chosen
 In cell 20, the user should choose points such that 2 pairs of perpendicular lines are chosen
 cell 24 will view the final metric rectified image.
-cell 25 is optional to save the image.
+cell 25 is optional to save the image as output_rgb.jpg.
 
 calcGUI3.ipynb
 video_path - can be the path to a surveillance footage in a .ts format. the given video files in the dataset folder can be used.
